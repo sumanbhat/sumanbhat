@@ -1,0 +1,10 @@
+name,email,external_id,details,notes,phone,role,restriction,organization,tags
+Steffen Kramer,SKRAMER@hu.ibm.com,,,,,agent,Advanced Agent,Sweden| Switzerland| Germany| Austria| Belgium| France| Unknown,,
+Stephanie Timár,STimar@hu.ibm.com,,,,,agent,Advanced Agent,Sweden| Unknown,,
+Ludwig Wallin,LWallin@hu.ibm.com,,,,,agent,Advanced Agent,Sweden| Unknown,,
+Susanne Celing,SUSANNE.CELING@SE.AGA.COM,,,,,agent,Lite Agent,Sweden| Unknown,,
+Paula Puga,PAULA.PUGA@SE.AGA.COM,,,,,agent,Lite Agent,Sweden| Unknown,,
+Sam Billings,sam@example.com,,,,,agent,Agent ,Sweden| Unknown,,
+Rick Johnson,rick@example.com,,,,,agent,Administrator,Sweden| Unknown,,
+Annie lois,Annie@example.com,,,,,agent,Lite Agent,Sweden| Unknown,,
+Robert lizzard,robert@example.com,,,,,agent,Client T3,Sweden| Unknown,,
